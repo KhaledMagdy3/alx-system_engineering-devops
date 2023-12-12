@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((envPOWER/envDIVIDE))
+echo $(($POWER / $DIVIDE))
